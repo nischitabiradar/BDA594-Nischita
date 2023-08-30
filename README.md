@@ -1,6 +1,6 @@
 # *Name:* Nischita Biradar
 
-## *Course URL:* **https://sdsu.instructure.com/courses/141078**
+## *Course URL:* **[BDA 594](https://sdsu.instructure.com/courses/141078)**
 
 ### *Big Data Definition:* 
 
