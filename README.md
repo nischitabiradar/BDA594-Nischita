@@ -1,5 +1,5 @@
-# *First Name:* Nischita 
-# *Last Name:*  Biradar
+## *First Name:* Nischita 
+## *Last Name:*  Biradar
 
 ## *Course URL:* **[BDA 594](https://sdsu.instructure.com/courses/141078)**
 
